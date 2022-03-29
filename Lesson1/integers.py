@@ -11,3 +11,6 @@ twice_my_age = 30 * 2
 half_my_age = age / 2
 
 birth_year = current_year - age
+
+
+print(birth_year)
