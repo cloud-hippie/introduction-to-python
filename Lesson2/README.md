@@ -17,8 +17,9 @@ source module-demo/bin/activate
 
 There are other platforms that allow us to create virtual environments and install packages. These are worth checking out.
 
-[Poetry](https://poetry.eustace.io/):
-[pipenv](https://pipenv.readthedocs.io/en/latest/):
+[Poetry](https://poetry.eustace.io/)
+
+[pipenv](https://pipenv.readthedocs.io/en/latest/)
 
 ## Install Python Packages through pip
 
