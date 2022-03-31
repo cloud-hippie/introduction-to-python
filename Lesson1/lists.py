@@ -1,7 +1,7 @@
 # Lists
 
 # lists are used to store multiple values in a single variable
-# to_do_list = []
+to_do_list = []
 
 
 # add items to the list

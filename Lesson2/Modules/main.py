@@ -1,6 +1,9 @@
-from request_api import APIClient
 
+from request_api import APIClient, Person
 
 my_client = APIClient("username", "api_key")
+print(my_client)
 
-# my.client.get_user_info()
+
+justin = Person("Justin", 30, "Boston")
+print(justin.get_age() )
