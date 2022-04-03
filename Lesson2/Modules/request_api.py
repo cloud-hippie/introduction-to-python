@@ -1,4 +1,4 @@
-from requests import request
+import requests
 
 class APIClient:
     def __init__(self, username, api_key):
