@@ -1,6 +1,6 @@
 import pytest
 
-from Lesson3.challenges.numbers import is_odd, factorial
+from TDD.challenges.numbers import is_odd, factorial
 
 
 @pytest.mark.parametrize(
@@ -18,7 +18,7 @@ from Lesson3.challenges.numbers import is_odd, factorial
         (10, "even"),
     ],
 )
-def test_is_prime(number, expected):
+def test_is_odd(number, expected):
     assert is_odd(number) == expected
 
 

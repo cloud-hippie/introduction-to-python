@@ -1,5 +1,5 @@
 import pytest
-from Lesson3.challenges.strings import count_vowels, is_palindrome, reverse_string
+from TDD.challenges.strings import count_vowels, is_palindrome, reverse_string
 
 @pytest.mark.parametrize(
     "name, expected",
