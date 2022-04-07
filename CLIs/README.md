@@ -4,6 +4,19 @@ The DevOps world revolves around tooling which can be used to automate the proce
 
 In this section, we will be learning how to create a CLI that can be used to interact with services that we can then deploy as a python module so that we can use it in our projects.
 
+## Getting Started
+
+You're using a module within your project. In order to use it, you need to install it. This is another reason why virtual environments are a good idea.
+
+
+```python
+pip install -e .
+```
+
+This will download you repo and install it.
+
+You will then be able to run the value within console scripts.
+
 # Real World Scenario
 
 You work as a DevOps engineer for a company that is working to simplify local development. 
