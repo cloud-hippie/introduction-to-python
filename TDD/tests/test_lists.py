@@ -1,3 +1,4 @@
+from imp import lock_held
 from TDD.challenges.lists import is_in_list, longest_string_in_list
 
 
@@ -12,3 +13,5 @@ def test_is_in_list():
 def test_longest_string_in_list():
     assert longest_string_in_list(["one", "two", "three"]) == "three"
     assert longest_string_in_list(["four", "five", "six"])  == "five"
+
+
