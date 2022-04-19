@@ -1,15 +1,27 @@
-# introduction-to-python
+# Intorduction to Python
 
-Python is a programming language that is interpreted and compiled. It is designed to be highly readable and easy to use.
+Welcome to the Python Basics lesson! This is the official repository that pairs well with the lessons on the Cloud Hippie website.
 
-It was created by Guido van Rossum, who is also the creator of the Unix operating system.
 
-It is free and open source.
+# Installation
 
-It is built on top of the C programming language.
+You must have Python installed on your computer in order to use this lesson.
 
-It is most commonly used in web development, but it is also used in many other fields.
+To install Python, follow the instructions [here](https://www.python.org/downloads/).
 
-# Lesson 1 - Data Types
+A majorty of these lessons will be using Python 3.8.
 
-This goes through all the data types in python.
+Cloud Hippie uses pyenv to manage Python versions.
+
+Please install pyenv by following the instructions [here](https://github.com/pyenv/pyenv#installation)
+
+Then install Python 3.8.
+
+```bash
+$ pyenv install 3.8.0
+```
+
+THis will install Python 3.8.0 to your computer.
+
+We also have provided a docker container with everything you need to run this lesson.
+

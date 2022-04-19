@@ -18,9 +18,12 @@ See installation instructions [here](https://www.python.org/downloads/).
 Python has variables. Variables are used to store data in memory.
 
 They can be used to store any of the following data types:
+
 String
 Integer/Float
 Boolean
 List
 Dictionary
+
+
 
