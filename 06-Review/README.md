@@ -10,9 +10,6 @@ The genrator should allow the user to specify the length of the password.
 # Assignment
 
 1. Add the ability for the user to specify an output file.
-2. Add the ability for the user to 
-
-
-Bonus:
+2. Add the ability for the user to specify a silent output (just put the password in a file).
 3. Show the user the password as base64 encoded.
 4. The decoded password should be shown in an output file.
