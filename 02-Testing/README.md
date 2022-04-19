@@ -13,7 +13,6 @@ It also makes sure that we don't have any unexpected behavior.
 It also allows us to develop faster and more efficiently.
 
 
-
 # Getting started
 
 This repo uses `pipenv` if you do not have it please use `pip install pipenv` to install it.
