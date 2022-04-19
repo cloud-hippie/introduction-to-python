@@ -1,4 +1,5 @@
 import click
+from schemas.config_file import ConfigFile
 
 
 @click.group()
@@ -6,13 +7,16 @@ def cli():
     pass
 
 @cli.command()
-@click.option('--count', default=1, help='Number of greetings.')
-@click.option('--name', prompt='Your name',
-              help='The person to greet.')
-def configure(count, name):
+@click.option('--filename')
+def configure(filename):
     """Simple program that greets NAME for a total of COUNT times."""
-    for x in range(count):
-        click.echo(f"Hello {name}!")
+    click.echo('Hello %s!' % filename)
+    service_name = click.prompt('What is your name?')
+    click.echo("Creating service %s" % service_name)
+    config_file = ConfigFile(filename, input_data={'service_name': service_name})
+    click.echo(config_file.data)
+
+
     
 
 if __name__ == '__main__':
