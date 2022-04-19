@@ -22,4 +22,4 @@ This will help us to write our data in a human-friendly format. It will also hel
 6. Create a `schema.py` file in the root of the repo.
 7. Create a `setup.py` file in the root of the repo.
 
-Using the example within the `CLI` folder, create a `yamler` command line interface
+Using the example within the `CLI` folder, create a `yamler` command line interface.
