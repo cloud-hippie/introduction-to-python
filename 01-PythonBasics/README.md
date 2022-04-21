@@ -12,7 +12,6 @@ You need to have Python installed on your computer in order to use this lesson.
 
 See installation instructions [here](https://www.python.org/downloads/).
 
-
 # Variables
 
 Python has variables. Variables are used to store data in memory.
@@ -24,6 +23,9 @@ Integer/Float
 Boolean
 List
 Dictionary
+
+
+
 
 
 

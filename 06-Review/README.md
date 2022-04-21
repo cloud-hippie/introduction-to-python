@@ -35,9 +35,15 @@ Add your own functionality to the password generator:
 3. Add an option to output the password as base64 encoded.
 4. Add an option for the user to use real words within the password.
 
-# Pet-Pal (Thursday)
+# Tiny API Project
 
-An API project focussing on disctionaries, JSON and Classes.
+The Tiny API is a minimal API built to help students learn about APIs.
+
+It focusses on objects, methods and classes.
+
+# Pet-Pal
+
+An API project focussing on dictionaries, JSON and Classes.
 
 API's are a great way to create a web application. They are also highly dependant on a user knowing how to parse JSON and traverse dictionaries.
 
