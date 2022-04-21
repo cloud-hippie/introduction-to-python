@@ -1,4 +1,4 @@
-# Intorduction to Python
+# Introduction to Python
 
 Welcome to the Python Basics lesson! This is the official repository that pairs well with the lessons on the Cloud Hippie website.
 
@@ -25,3 +25,8 @@ THis will install Python 3.8.0 to your computer.
 
 We also have provided a docker container with everything you need to run this lesson.
 
+# Using this Repo
+
+This repo is made to be used as a supplement to the Cloud Hippie Python course. That being said, we try to spread the lessons out so one cna ealy learn on their own.
+
+Each of the folders in this repo is a lesson. Each lesson has a number, students should proceed to learn the lesson in order.
