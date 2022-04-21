@@ -41,6 +41,8 @@ The Tiny API is a minimal API built to help students learn about APIs.
 
 It focusses on objects, methods and classes.
 
+The installaiton instructions are within the `tiny-api` directory.
+
 # Pet-Pal
 
 An API project focussing on dictionaries, JSON and Classes.
