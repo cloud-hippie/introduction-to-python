@@ -7,7 +7,7 @@ Python has a Few major projects that are used to create APIs:
 - Django
 - FastAPI
 
-Each one of these API projects has a different way of creating an API.
+Each one of these API projects has a different way of creating an API. And had a directory. Feel free to explore!
 
 
 
