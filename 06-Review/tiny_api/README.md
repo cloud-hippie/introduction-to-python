@@ -71,6 +71,7 @@ It is a flask app, to get Flask to work, you need to set an environment variable
 
 ```bash
 FLASK_APP=app.py
+export DATABASE_URL=postgresql://postgres:mysecretpassword@localhost:5432/users
 ```
 
 Then start the app.
